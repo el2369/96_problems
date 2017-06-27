@@ -1,7 +1,6 @@
-# Script to analyze tecan growth data
-# This should be here
+#script to analyze tecan growth data
 
-# Set working directory
+#set working directory
 setwd("/Users/Erika/Documents/NYU/R_Scripts")
 
 #import data as a matrix
